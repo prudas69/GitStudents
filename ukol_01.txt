@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Zde bude videt zadani, ukolu jedna.
 Breta edituje
+=======
+git config --global mergetool.diffmerge.cmd "\"c:\\Program Files\\SourceGear\\Common\\DiffMerge\\sgdm.exe\" -merge -result=\"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\""
+>>>>>>> b68418eb18c7ec4c719fca1104fd578e4175250b
