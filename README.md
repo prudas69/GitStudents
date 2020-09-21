@@ -1,5 +1,6 @@
 # GitStudents
 Pondeli 21.9.2020
 Clonove valky
-tohle bude konfliktni radek
-bla bla
+Clonove valky 2
+Toto bude mimo
+test hбиkщ  ибrek.

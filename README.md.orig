@@ -1,0 +1,10 @@
+# GitStudents
+Pondeli 21.9.2020
+Clonove valky
+<<<<<<< HEAD
+tohle bude konfliktni radek
+bla bla
+=======
+Clonove valky 2
+Toto bude mimo
+>>>>>>> 7dacedeba7c59dd504564ac8c0a0a7f4cd3e85ab
